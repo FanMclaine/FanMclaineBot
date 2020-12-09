@@ -345,8 +345,8 @@ async def on_message(message):
     #admin commands
      
 
-client.run("NzE4NDg3MDcyOTA5OTUxMDc2.XtplOw.ZIHT082e3RWVfgxU5-LuOXcKHdU")
-Run = "NzE4NDg3MDcyOTA5OTUxMDc2.XtplOw.ZIHT082e3RWVfgxU5-LuOXcKHdU"
+client.run("Hehe boi")
+Run = "Run"
 
 Example_string = "dont worry mcbot will support you on everything"
 Source_cODE_Server_Id = "709477782828220446"
