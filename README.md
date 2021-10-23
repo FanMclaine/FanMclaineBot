@@ -8,6 +8,8 @@ The reason it discontinued is because of lack of confidence and lots of procrast
 But the bot is still online so dont worry, it hasnt been fully discontinued (fucking mclnoot stopped it lmao)
 
 # Why Python?
+Cuz its easy!
+
 Well, python is the easiest language out there and since there is a discord.py library
 
 Python also makes the code very well written tho
