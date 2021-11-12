@@ -12,6 +12,6 @@ Cuz its easy!
 
 Well, python is the easiest language out there and since there is a discord.py library
 
-Python also makes the code very well written tho
-
 I just watched a bit of discord bot making tutorials
+
+(and discord.js sucks)
